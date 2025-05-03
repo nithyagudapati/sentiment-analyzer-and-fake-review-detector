@@ -1,0 +1,7 @@
+# Treat text files as UTF-8
+* text=auto
+
+# Set default behavior for line endings
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
