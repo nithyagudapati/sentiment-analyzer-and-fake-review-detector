@@ -68,7 +68,8 @@ sentimentanalysis_app/
 Then open http://localhost:8501 in your browser.  
 
 ### **Web Application Features**    
-Review Input: Users can enter any product review.  
+Review Input: Users can enter any product review.   
+ **Note:** Input should be given with proper words as the model trained with proper data.
 
 ### **Dual Classification:**    
 
